@@ -1,2 +1,2 @@
 # clock
-this is a clock code for ardouino 
+this is a digital clock code for python
